@@ -1,0 +1,15 @@
+[package]
+name = "always-online-torrent-trackers"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bip_util = "0.5.0"
+bip_utracker = { path = "../bip-rs/bip_utracker", default-features = false }
+futures = { version = "0.3" }
+nom = { version = "3.2.1" }
+rand = { version = "0.8.4", default-features = false, features = ["std", "std_rng"] }
+tokio = { version = "1.14.0", default-features = false, features = ["fs", "macros", "net", "rt", "time"] }
+tokio-stream = { version = "0.1.8", default-features = false }

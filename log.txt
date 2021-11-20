@@ -1,0 +1,616 @@
+Failure: OperationalError
+Success: CandidateProfile { candidate: TrackerCandidate { host: "109.248.43.36", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [109.248.43.36:6969], rtt_ms: 113 }
+Success: CandidateProfile { candidate: TrackerCandidate { host: "134.209.1.127", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [134.209.1.127:6969], rtt_ms: 381 }
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Success: CandidateProfile { candidate: TrackerCandidate { host: "144.76.35.202", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [144.76.35.202:6969], rtt_ms: 94 }
+Success: CandidateProfile { candidate: TrackerCandidate { host: "144.76.28.43", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [144.76.28.43:6969], rtt_ms: 101 }
+Failure: Timeout
+Success: CandidateProfile { candidate: TrackerCandidate { host: "148.251.53.72", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [148.251.53.72:6969], rtt_ms: 105 }
+Success: CandidateProfile { candidate: TrackerCandidate { host: "144.76.82.110", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [144.76.82.110:6969], rtt_ms: 106 }
+Failure: Timeout
+Success: CandidateProfile { candidate: TrackerCandidate { host: "167.179.77.133", port: 1, transport_type: UDP, suffix: Some("/announce") }, addrs: [167.179.77.133:1], rtt_ms: 499 }
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Success: CandidateProfile { candidate: TrackerCandidate { host: "173.212.223.237", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [173.212.223.237:6969], rtt_ms: 103 }
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Success: CandidateProfile { candidate: TrackerCandidate { host: "180.97.219.76", port: 8070, transport_type: UDP, suffix: Some("/announce") }, addrs: [180.97.219.76:8070], rtt_ms: 438 }
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Success: CandidateProfile { candidate: TrackerCandidate { host: "185.181.60.67", port: 80, transport_type: UDP, suffix: Some("/announce") }, addrs: [185.181.60.67:80], rtt_ms: 119 }
+Success: CandidateProfile { candidate: TrackerCandidate { host: "185.8.156.2", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [185.8.156.2:6969], rtt_ms: 175 }
+Failure: Timeout
+Failure: Timeout
+Success: CandidateProfile { candidate: TrackerCandidate { host: "185.92.223.36", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [185.92.223.36:6969], rtt_ms: 82 }
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Success: CandidateProfile { candidate: TrackerCandidate { host: "193.34.92.5", port: 80, transport_type: UDP, suffix: Some("/announce") }, addrs: [193.34.92.5:80], rtt_ms: 162 }
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Success: CandidateProfile { candidate: TrackerCandidate { host: "195.201.94.195", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [195.201.94.195:6969], rtt_ms: 86 }
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Success: CandidateProfile { candidate: TrackerCandidate { host: "198.100.149.66", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [198.100.149.66:6969], rtt_ms: 211 }
+Failure: Timeout
+Failure: Timeout
+Failure: DnsResolutionFailed
+Success: CandidateProfile { candidate: TrackerCandidate { host: "199.217.118.72", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [199.217.118.72:6969], rtt_ms: 279 }
+Failure: Timeout
+Success: CandidateProfile { candidate: TrackerCandidate { host: "207.241.226.111", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [207.241.226.111:6969], rtt_ms: 329 }
+Success: CandidateProfile { candidate: TrackerCandidate { host: "207.241.231.226", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [207.241.231.226:6969], rtt_ms: 325 }
+Success: CandidateProfile { candidate: TrackerCandidate { host: "208.83.20.20", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [208.83.20.20:6969], rtt_ms: 276 }
+Failure: Timeout
+Success: CandidateProfile { candidate: TrackerCandidate { host: "212.83.181.109", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [212.83.181.109:6969], rtt_ms: 124 }
+Success: CandidateProfile { candidate: TrackerCandidate { host: "213.108.129.160", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [213.108.129.160:6969], rtt_ms: 153 }
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Application error "Incomplete ANNOUNCE response"
+Failure: OperationalError
+Success: CandidateProfile { candidate: TrackerCandidate { host: "39.106.122.67", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [39.106.122.67:6969], rtt_ms: 379 }
+Failure: DnsResolutionFailed
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Application error "Incomplete ANNOUNCE response"
+Failure: OperationalError
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: DnsResolutionFailed
+Failure: Timeout
+Success: CandidateProfile { candidate: TrackerCandidate { host: "51.15.2.221", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [51.15.2.221:6969], rtt_ms: 72 }
+Application error "Incomplete ANNOUNCE response"
+Failure: OperationalError
+Success: CandidateProfile { candidate: TrackerCandidate { host: "51.15.55.204", port: 1337, transport_type: UDP, suffix: Some("/announce") }, addrs: [51.15.55.204:1337], rtt_ms: 80 }
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Success: CandidateProfile { candidate: TrackerCandidate { host: "61.164.110.198", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [61.164.110.198:6969], rtt_ms: 506 }
+Failure: Timeout
+Success: CandidateProfile { candidate: TrackerCandidate { host: "67.224.119.27", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [67.224.119.27:6969], rtt_ms: 282 }
+Success: CandidateProfile { candidate: TrackerCandidate { host: "6ahddutb1ucc3cp.ru", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [89.36.216.8:6969], rtt_ms: 77 }
+Success: CandidateProfile { candidate: TrackerCandidate { host: "6ahddutb1ucc3cp.ru", port: 6969, transport_type: UDP, suffix: Some("/announce&nbsp;") }, addrs: [89.36.216.8:6969], rtt_ms: 96 }
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: OperationalError
+Success: CandidateProfile { candidate: TrackerCandidate { host: "52.58.128.163", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [52.58.128.163:6969], rtt_ms: 79 }
+Failure: Timeout
+Failure: Timeout
+Failure: OperationalError
+Success: CandidateProfile { candidate: TrackerCandidate { host: "89.234.156.205", port: 451, transport_type: UDP, suffix: Some("/announce") }, addrs: [89.234.156.205:451], rtt_ms: 98 }
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Application error "Expected ANNOUNCE response, got ERROR response"
+Failure: OperationalError
+Success: CandidateProfile { candidate: TrackerCandidate { host: "9.rarbg.com", port: 2810, transport_type: UDP, suffix: Some("/announce") }, addrs: [151.80.120.113:2810, 151.80.120.114:2810, 151.80.120.115:2810, 151.80.120.112:2810], rtt_ms: 1576 }
+Success: CandidateProfile { candidate: TrackerCandidate { host: "9.rarbg.com", port: 2920, transport_type: UDP, suffix: Some("/announce") }, addrs: [151.80.120.112:2920, 151.80.120.115:2920, 151.80.120.114:2920, 151.80.120.113:2920], rtt_ms: 1532 }
+Success: CandidateProfile { candidate: TrackerCandidate { host: "9.rarbg.me", port: 2780, transport_type: UDP, suffix: Some("/announce") }, addrs: [151.80.120.112:2780, 151.80.120.115:2780, 151.80.120.114:2780, 151.80.120.113:2780], rtt_ms: 1285 }
+Success: CandidateProfile { candidate: TrackerCandidate { host: "9.rarbg.to", port: 2730, transport_type: UDP, suffix: Some("/announce") }, addrs: [151.80.120.112:2730, 151.80.120.114:2730, 151.80.120.115:2730, 151.80.120.113:2730], rtt_ms: 1463 }
+Success: CandidateProfile { candidate: TrackerCandidate { host: "93.158.213.92", port: 1337, transport_type: UDP, suffix: Some("/announce") }, addrs: [93.158.213.92:1337], rtt_ms: 64 }
+Failure: Timeout
+Failure: Timeout
+Success: CandidateProfile { candidate: TrackerCandidate { host: "95.217.161.135", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [95.217.161.135:6969], rtt_ms: 136 }
+Failure: Timeout
+Failure: Timeout
+Failure: DnsResolutionFailed
+Success: CandidateProfile { candidate: TrackerCandidate { host: "abufinzio.monocul.us", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [51.159.186.41:6969], rtt_ms: 77 }
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: DnsResolutionFailed
+Failure: DnsResolutionFailed
+Application error "Expected ANNOUNCE response, got ERROR response"
+Failure: OperationalError
+Application error "Expected ANNOUNCE response, got ERROR response"
+Failure: OperationalError
+Failure: DnsResolutionFailed
+Failure: Timeout
+Failure: DnsResolutionFailed
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Success: CandidateProfile { candidate: TrackerCandidate { host: "bclearning.top", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [39.106.122.67:6969], rtt_ms: 442 }
+Failure: Timeout
+Failure: Timeout
+Success: CandidateProfile { candidate: TrackerCandidate { host: "admin.videoenpoche.info", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [212.83.181.109:6969], rtt_ms: 173 }
+Failure: Timeout
+Failure: Timeout
+Failure: DnsResolutionFailed
+Failure: DnsResolutionFailed
+Failure: DnsResolutionFailed
+Failure: Timeout
+Failure: DnsResolutionFailed
+Failure: Timeout
+Failure: DnsResolutionFailed
+Failure: DnsResolutionFailed
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: Timeout
+Failure: OperationalError
+Failure: Timeout
+Failure: DnsResolutionFailed
+Failure: DnsResolutionFailed
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Success: CandidateProfile { candidate: TrackerCandidate { host: "bt2.archive.org", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [207.241.231.226:6969], rtt_ms: 325 }
+Failure: Timeout
+Failure: Timeout
+Success: CandidateProfile { candidate: TrackerCandidate { host: "bubu.mapfactor.com", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [199.217.118.72:6969], rtt_ms: 253 }
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Success: CandidateProfile { candidate: TrackerCandidate { host: "camera.lei001.com", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [61.164.110.198:6969], rtt_ms: 472 }
+Failure: Timeout
+Failure: DnsResolutionFailed
+Failure: Timeout
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: DnsResolutionFailed
+Failure: DnsResolutionFailed
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: Timeout
+Failure: Timeout
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: OperationalError
+Failure: DnsResolutionFailed
+Application error "Incomplete ANNOUNCE response"
+Failure: OperationalError
+Application error "Incomplete ANNOUNCE response"
+Failure: OperationalError
+Failure: Timeout
+Failure: Timeout
+Failure: OperationalError
+Success: CandidateProfile { candidate: TrackerCandidate { host: "cutiegirl.ru", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [144.76.82.110:6969], rtt_ms: 86 }
+Failure: OperationalError
+Failure: Timeout
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: OperationalError
+Failure: OperationalError
+Failure: OperationalError
+Success: CandidateProfile { candidate: TrackerCandidate { host: "discord.heihachi.pw", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [144.76.35.202:6969], rtt_ms: 102 }
+Failure: DnsResolutionFailed
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: OperationalError
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Success: CandidateProfile { candidate: TrackerCandidate { host: "engplus.ru", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [185.8.156.2:6969], rtt_ms: 182 }
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: OperationalError
+Failure: OperationalError
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: Timeout
+Failure: OperationalError
+Failure: OperationalError
+Failure: Timeout
+Success: CandidateProfile { candidate: TrackerCandidate { host: "fe.dealclub.de", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [148.251.53.72:6969], rtt_ms: 87 }
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: Timeout
+Failure: Timeout
+Failure: DnsResolutionFailed
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Io Error Os { code: 13, kind: PermissionDenied, message: "Permission denied" }
+Failure: OperationalError
+Failure: Timeout
+Failure: Timeout
+Failure: DnsResolutionFailed
+Failure: Timeout
+Failure: OperationalError
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: DnsResolutionFailed
+Success: CandidateProfile { candidate: TrackerCandidate { host: "inferno.demonoid.is", port: 3391, transport_type: UDP, suffix: Some("/announce") }, addrs: [176.123.8.121:3391], rtt_ms: 161 }
+Failure: DnsResolutionFailed
+Failure: Timeout
+Failure: DnsResolutionFailed
+Failure: Timeout
+Failure: Timeout
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: OperationalError
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: OperationalError
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: OperationalError
+Success: CandidateProfile { candidate: TrackerCandidate { host: "jeremylee.sh", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [188.165.242.7:6969], rtt_ms: 71 }
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: OperationalError
+Failure: OperationalError
+Failure: Timeout
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: Timeout
+Failure: Timeout
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: Timeout
+Failure: Timeout
+Failure: DnsResolutionFailed
+Success: CandidateProfile { candidate: TrackerCandidate { host: "mail.realliferpg.de", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [195.201.94.195:6969], rtt_ms: 84 }
+Failure: DnsResolutionFailed
+Failure: Timeout
+Success: CandidateProfile { candidate: TrackerCandidate { host: "movies.zsw.ca", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [198.100.149.66:6969], rtt_ms: 222 }
+Success: CandidateProfile { candidate: TrackerCandidate { host: "mts.tvbit.co", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [213.108.129.160:6969], rtt_ms: 182 }
+Failure: Timeout
+Failure: OperationalError
+Failure: Timeout
+Failure: Timeout
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: OperationalError
+Failure: OperationalError
+Failure: OperationalError
+Failure: OperationalError
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: Timeout
+Failure: DnsResolutionFailed
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: Timeout
+Success: CandidateProfile { candidate: TrackerCandidate { host: "open.publictracker.xyz", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [45.76.92.209:6969], rtt_ms: 80 }
+Success: CandidateProfile { candidate: TrackerCandidate { host: "open.stealth.si", port: 80, transport_type: UDP, suffix: Some("/announce") }, addrs: [185.181.60.67:80], rtt_ms: 119 }
+Failure: Timeout
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Success: CandidateProfile { candidate: TrackerCandidate { host: "open.tracker.cl", port: 1337, transport_type: UDP, suffix: Some("/announce") }, addrs: [152.231.114.6:1337], rtt_ms: 555 }
+Failure: Timeout
+Failure: Timeout
+Failure: DnsResolutionFailed
+Failure: DnsResolutionFailed
+Failure: OperationalError
+Success: CandidateProfile { candidate: TrackerCandidate { host: "p4p.arenabg.com", port: 1337, transport_type: UDP, suffix: None }, addrs: [185.230.4.150:1337], rtt_ms: 154 }
+Failure: Timeout
+Success: CandidateProfile { candidate: TrackerCandidate { host: "p4p.arenabg.com", port: 1337, transport_type: UDP, suffix: Some("/announce") }, addrs: [185.230.4.150:1337], rtt_ms: 162 }
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: Timeout
+Failure: OperationalError
+Failure: Timeout
+Failure: OperationalError
+Failure: OperationalError
+Failure: Timeout
+Failure: Timeout
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: OperationalError
+Failure: Timeout
+Failure: Timeout
+Failure: OperationalError
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: DnsResolutionFailed
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: OperationalError
+Failure: OperationalError
+Failure: OperationalError
+Failure: DnsResolutionFailed
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: DnsResolutionFailed
+Failure: DnsResolutionFailed
+Failure: Timeout
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: Timeout
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: OperationalError
+Failure: Timeout
+Application error "Incomplete ANNOUNCE response"
+Failure: OperationalError
+Failure: Timeout
+Success: CandidateProfile { candidate: TrackerCandidate { host: "tracker-de.ololosh.space", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [62.109.31.95:6969], rtt_ms: 145 }
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: Timeout
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: OperationalError
+Failure: Timeout
+Failure: Timeout
+Failure: DnsResolutionFailed
+Success: CandidateProfile { candidate: TrackerCandidate { host: "tracker.0x.tf", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [185.21.216.185:6969], rtt_ms: 64 }
+Failure: DnsResolutionFailed
+Success: CandidateProfile { candidate: TrackerCandidate { host: "tracker.altrosky.nl", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [109.248.43.36:6969], rtt_ms: 89 }
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: Timeout
+Failure: Timeout
+Failure: OperationalError
+Success: CandidateProfile { candidate: TrackerCandidate { host: "tracker.auctor.tv", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [51.158.144.42:6969], rtt_ms: 71 }
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: OperationalError
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: OperationalError
+Success: CandidateProfile { candidate: TrackerCandidate { host: "tracker.bitsearch.to", port: 1337, transport_type: UDP, suffix: Some("/announce") }, addrs: [45.14.225.8:1337], rtt_ms: 70 }
+Failure: Timeout
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: Timeout
+Success: CandidateProfile { candidate: TrackerCandidate { host: "tracker.blacksparrowmedia.net", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [67.224.119.27:6969], rtt_ms: 270 }
+Failure: Timeout
+Failure: OperationalError
+Failure: DnsResolutionFailed
+Failure: OperationalError
+Failure: Timeout
+Failure: OperationalError
+Failure: Timeout
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: OperationalError
+Failure: Timeout
+Failure: DnsResolutionFailed
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: OperationalError
+Success: CandidateProfile { candidate: TrackerCandidate { host: "tracker.dler.com", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [213.183.51.12:6969, 185.185.40.42:6969, 217.30.10.35:6969, 217.30.10.70:6969, 185.185.40.129:6969, 217.30.10.54:6969, 45.14.226.152:6969, 185.185.40.250:6969, 61.216.109.95:6969, 217.30.10.83:6969], rtt_ms: 158 }
+Success: CandidateProfile { candidate: TrackerCandidate { host: "tracker.dler.org", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [213.183.51.12:6969, 185.185.40.42:6969, 217.30.10.35:6969, 217.30.10.70:6969, 185.185.40.129:6969, 217.30.10.54:6969, 45.14.226.152:6969, 185.185.40.250:6969, 61.216.109.95:6969, 217.30.10.83:6969], rtt_ms: 149 }
+Failure: DnsResolutionFailed
+Failure: Timeout
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: Timeout
+Failure: DnsResolutionFailed
+Failure: DnsResolutionFailed
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: Timeout
+Failure: OperationalError
+Failure: DnsResolutionFailed
+Failure: PartialTimeout
+Failure: Timeout
+Failure: DnsResolutionFailed
+Failure: OperationalError
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Success: CandidateProfile { candidate: TrackerCandidate { host: "tracker.haynet.io", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [217.182.11.195:6969], rtt_ms: 74 }
+Failure: Timeout
+Failure: Timeout
+Success: CandidateProfile { candidate: TrackerCandidate { host: "tracker.jordan.im", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [213.108.105.23:6969], rtt_ms: 79 }
+Failure: DnsResolutionFailed
+Success: CandidateProfile { candidate: TrackerCandidate { host: "tracker.internetwarriors.net", port: 1337, transport_type: UDP, suffix: Some("/announce") }, addrs: [152.231.114.6:1337], rtt_ms: 608 }
+Failure: Timeout
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Application error "Incomplete ANNOUNCE response"
+Failure: OperationalError
+Failure: DnsResolutionFailed
+Failure: DnsResolutionFailed
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: Timeout
+Failure: OperationalError
+Failure: Timeout
+Failure: Timeout
+Success: CandidateProfile { candidate: TrackerCandidate { host: "tracker.lelux.fi", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [95.217.161.135:6969], rtt_ms: 139 }
+Failure: Timeout
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: OperationalError
+Failure: Timeout
+Failure: Timeout
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: OperationalError
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: OperationalError
+Success: CandidateProfile { candidate: TrackerCandidate { host: "tracker.monitorit4.me", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [93.104.214.40:6969], rtt_ms: 104 }
+Failure: Timeout
+Failure: DnsResolutionFailed
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: OperationalError
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: OperationalError
+Failure: Timeout
+Failure: Timeout
+Success: CandidateProfile { candidate: TrackerCandidate { host: "tracker.ololosh.space", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [62.109.31.95:6969], rtt_ms: 145 }
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Success: CandidateProfile { candidate: TrackerCandidate { host: "tracker.opentrackr.org", port: 1337, transport_type: UDP, suffix: None }, addrs: [93.158.213.92:1337], rtt_ms: 69 }
+Failure: OperationalError
+Failure: DnsResolutionFailed
+Success: CandidateProfile { candidate: TrackerCandidate { host: "tracker.opentrackr.org", port: 1337, transport_type: UDP, suffix: Some("/announce") }, addrs: [93.158.213.92:1337], rtt_ms: 66 }
+Failure: DnsResolutionFailed
+Failure: DnsResolutionFailed
+Success: CandidateProfile { candidate: TrackerCandidate { host: "tracker.pomf.se", port: 80, transport_type: UDP, suffix: Some("/announce") }, addrs: [65.108.63.133:80], rtt_ms: 108 }
+Failure: OperationalError
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: Timeout
+Failure: OperationalError
+Failure: DnsResolutionFailed
+Failure: Timeout
+Failure: PartialTimeout
+Failure: DnsResolutionFailed
+Failure: PartialTimeout
+Failure: PartialTimeout
+Failure: Timeout
+Failure: OperationalError
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: DnsResolutionFailed
+Failure: DnsResolutionFailed
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: OperationalError
+Failure: OperationalError
+Failure: Timeout
+Failure: DnsResolutionFailed
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Success: CandidateProfile { candidate: TrackerCandidate { host: "tracker.tiny-vps.com", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [5.206.55.233:6969], rtt_ms: 211 }
+Failure: Timeout
+Failure: OperationalError
+Failure: DnsResolutionFailed
+Io Error Os { code: 13, kind: PermissionDenied, message: "Permission denied" }
+Failure: OperationalError
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Success: CandidateProfile { candidate: TrackerCandidate { host: "tracker.zerobytes.xyz", port: 1337, transport_type: UDP, suffix: Some("/announce") }, addrs: [51.15.55.204:1337], rtt_ms: 95 }
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Success: CandidateProfile { candidate: TrackerCandidate { host: "tracker0.ufibox.com", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [173.212.223.237:6969], rtt_ms: 95 }
+Failure: Timeout
+Failure: OperationalError
+Failure: DnsResolutionFailed
+Failure: DnsResolutionFailed
+Failure: Timeout
+Success: CandidateProfile { candidate: TrackerCandidate { host: "tracker1.bt.moack.co.kr", port: 80, transport_type: UDP, suffix: Some("/announce") }, addrs: [156.234.201.18:80], rtt_ms: 506 }
+Failure: DnsResolutionFailed
+Failure: DnsResolutionFailed
+Success: CandidateProfile { candidate: TrackerCandidate { host: "tracker2.dler.com", port: 80, transport_type: UDP, suffix: Some("/announce") }, addrs: [157.90.169.123:80], rtt_ms: 87 }
+Success: CandidateProfile { candidate: TrackerCandidate { host: "tracker2.dler.org", port: 80, transport_type: UDP, suffix: Some("/announce") }, addrs: [157.90.169.123:80], rtt_ms: 83 }
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Success: CandidateProfile { candidate: TrackerCandidate { host: "tracker1.myporn.club", port: 9337, transport_type: UDP, suffix: Some("/announce") }, addrs: [193.42.111.57:9337], rtt_ms: 2843 }
+Failure: Timeout
+Failure: DnsResolutionFailed
+Failure: DnsResolutionFailed
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: OperationalError
+Failure: Timeout
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Success: CandidateProfile { candidate: TrackerCandidate { host: "tsundere.pw", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [70.253.60.239:6969], rtt_ms: 278 }
+Failure: Timeout
+Failure: DnsResolutionFailed
+Failure: DnsResolutionFailed
+Failure: OperationalError
+Success: CandidateProfile { candidate: TrackerCandidate { host: "udp-tracker.shittyurl.org", port: 6969, transport_type: UDP, suffix: Some("/announce") }, addrs: [205.185.121.146:6969], rtt_ms: 340 }
+Failure: DnsResolutionFailed
+Failure: Timeout
+Failure: DnsResolutionFailed
+Failure: DnsResolutionFailed
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Success: CandidateProfile { candidate: TrackerCandidate { host: "vibe.sleepyinternetfun.xyz", port: 1738, transport_type: UDP, suffix: Some("/announce") }, addrs: [149.28.47.87:1738], rtt_ms: 228 }
+Failure: DnsResolutionFailed
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: DnsResolutionFailed
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: OperationalError
+Failure: DnsResolutionFailed
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Io Error Os { code: 101, kind: NetworkUnreachable, message: "Network is unreachable" }
+Failure: OperationalError
+Failure: Timeout
+Failure: Timeout
+Failure: DnsResolutionFailed
+Failure: Timeout
+Failure: OperationalError
+Failure: Timeout
+Failure: OperationalError
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+Failure: Timeout
+OK 83 , DNS failure 72 , p/Timeout 4 , Timeout 286 , Operational error 79
+Finished in 178.297537054s
