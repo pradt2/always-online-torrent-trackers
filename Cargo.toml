@@ -7,7 +7,7 @@ edition = "2018"
 
 [dependencies]
 bip_util = "0.5.0"
-bip_utracker = { path = "../bip-rs/bip_utracker", default-features = false }
+bip_utracker = { version = "0.4.0", default-features = false }
 futures = { version = "0.3" }
 nom = { version = "3.2.1" }
 rand = { version = "0.8.4", default-features = false, features = ["std", "std_rng"] }
