@@ -1,7 +1,7 @@
-# Always Online: STUN servers
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/pradt2/always-online-stun?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/pradt2/always-online-stun?style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/pradt2/always-online-stun?style=for-the-badge)
+# Always Online: Torrent trackers
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/pradt2/always-online-torrent-trackers?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/pradt2/always-online-torrent-trackers?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/pradt2/always-online-torrent-trackers?style=for-the-badge)
 
 Have you ever thought: *Gosh, why isn't there a regularly updated, comprehensive list of publicly available STUN servers*?
 
