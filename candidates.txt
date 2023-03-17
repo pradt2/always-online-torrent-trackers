@@ -874,6 +874,7 @@ udp://tracker.pomf.se:80/announce
 udp://tracker.port443.xyz:6969/announce
 udp://tracker.publicbt.com:80/announce
 udp://tracker.publictracker.xyz:6969/announce
+udp://tracker.renfei.net:8080/announce
 udp://tracker.shittyurl.org:6969/announce
 udp://tracker.shkinev.me:6969/announce
 udp://tracker.sigterm.xyz:6969/announce
