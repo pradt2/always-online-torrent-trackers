@@ -1,5 +1,5 @@
+udp://retracker01-msk-virt.corbina.net:80/announce
+udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://193.34.92.5:80/announce
-udp://tracker.tiny-vps.com:6969/announce
-udp://retracker01-msk-virt.corbina.net:80/announce
 udp://52.58.128.163:6969/announce
