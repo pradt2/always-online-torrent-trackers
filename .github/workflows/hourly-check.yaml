@@ -1,0 +1,36 @@
+name: Hourly check
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'
+
+env:
+  CARGO_TERM_COLOR: always
+  RUST_LOG: info
+
+jobs:
+  run-hourly-check:
+    runs-on: self-hosted
+
+    steps:
+      - name: Git checkout
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 1
+
+      - name: Build executable
+        run: cargo build
+
+      - name: Run executable
+        run: cargo run
+
+      - name: Create timestamp
+        id: create-timestamp
+        run: echo "timestamp=$(date --utc)" >> "$GITHUB_OUTPUT"
+
+      - name: Git commit & push
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: Check ${{ steps.create-timestamp.outputs.timestamp }}
+
